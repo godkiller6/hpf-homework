@@ -4,7 +4,7 @@ title:
 ---
 
 # 我的博客标题 IT男--史蒂夫·乔布斯
-![在这里插入图片描述](https://img-blog.csdn.net/20181013134430238?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMjY3Nzcz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![在这里插入图片描述](http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E4%B9%94%E5%B8%83%E6%96%AF&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&cs=249268099,2935378037&os=3182151344,3263739059&pn=2&rn=1&di=190652743930&ln=1906&fr=&fmq=1539410439035_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&pi=0&gsm=0&objurl=http%3A%2F%2Fwww.yikexun.cn%2Fuploads%2Fallimg%2F120918%2F1_120918231411_1.jpg&rpstart=0&rpnum=0&adpicid=0)
 
  	1955年2月24日，史蒂夫·乔布斯出生在美国旧金山。刚刚出世就被父母遗弃了。幸运的是，保罗·乔布斯和克拉拉·乔布斯——一对好心的夫妻领养了他。
 
