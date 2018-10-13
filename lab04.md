@@ -1,25 +1,71 @@
-﻿我的第四次作业：
+﻿---
+layout: 
+title: 
+---
 
-一
+# 我的博客标题 编码科普
+定义 
+编码是用预先规定的方法将文字、数字或其他对象编成数码，或将信息、数据转换成规定的电脉冲信号。编码是信息从一种形式或格式转换为另一种形式的过程。编码在电子计算机、电视、遥控和通讯等方面广泛使用。解码，是编码的逆过程。数字系统中常用的编码有两类，一类是二进制编码，另一类是十进制编码。 
+![在这里插入图片描述](https://img-blog.csdn.net/20181013151013135?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMjY3Nzcz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
-1）**ASCII** abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters.
+分类 
+1. 汉字区。包括：
 
-2）**Color** is the characteristic of human visual perception described through color categories, with names such as red, orange, yellow, green, blue, or purple. This perception of color derives from the stimulation of cone cells in the human eye by electromagnetic radiation in the visible spectrum. Color categories and physical specifications of color are associated with objects through the wavelength of the light that is reflected from them. This reflection is governed by the object's physical properties such as light absorption, emission spectra, etc.
+a. GB 2312 汉字区。即 GBK/2: B0A1-F7FE。收录 GB 2312 汉字 6763 个，按原顺序排列。
 
-二
+b. GB 13000.1 扩充汉字区。包括：
 
-1）
+(1) GBK/3: 8140-A0FE。收录 GB 13000.1 中的 CJK 汉字 6080 个。
 
-|字符  |  ASCII 码|  Unicode 码| utf-8 编码 |
-|--|--|--|--|
-|A | （01000001）2 | 0041 | （65）10 |
-| 中 | （229）10 | U4e2d | &#x4E2D  |
+(2) GBK/4: AA40-FEA0。收录 CJK 汉字和增补的汉字 8160 个。
 
-2）yellow（255，255，0）
+CJK 汉字在前，按 UCS 代码大小排列；增补的汉字（包括部首和构件）在后，按《康熙字典》的页码/字位排列。
 
-3）PNG   10%   50%    14%
+2.图形符号区。包括：
 
-4）lossless
+a. GB 2312 非汉字符号区。即 GBK/1: A1A1-A9FE。其中除 GB 2312 的符号外，
 
+还有 10 个小写罗马数字和 GB 12345 增补的符号。计符号 717 个。
 
+b. GB 13000.1 扩充非汉字区。即 GBK/5: A840-A9A0。BIG-5 非汉字符号、结构符和“○”排列在此区。计符号 166 个。
 
+用户自定义区：分为(1)(2)(3)三个小区。
+(1) AAA1-AFFE，码位 564 个。
+
+(2) F8A1-FEFE，码位 658 个。
+
+(3) A140-A7A0，码位 672 个。
+
+第(3)区尽管对用户开放，但限制使用，因为不排除未来在此区域增补新字符的可能性。 
+![在这里插入图片描述](https://img-blog.csdn.net/20181013151036816?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMjY3Nzcz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+这里写图片描述 
+种类 
+文字编码
+
+文字编码(Text encoding)使用一种标记语言来标记一篇文字的结构和其他特征，以方便计算机进行处理。
+
+语义编码
+
+语义编码(Semantics encoding)，以正式语言乙对正式语言甲进行语义编码，即是使用语言乙表达语言甲所有的词汇（如程序或说明）的一种方法。
+
+电子编码
+
+电子编码(Electronic encoding)是将一个信号转换成为一个代码，这种代码是被优化过的以利于传输或存储。转换工作通常由一个编解码器完成。
+
+神经编码
+
+神经编码(Neural encoding)是指信息在神经元中被如何描绘的方法。
+
+记忆编码
+
+记忆编码(Memory encoding)是把感觉转换成记忆的过程。
+
+加密
+
+加密(Encryption)是为了保密而对信息进行转换的过程。
+
+译码
+
+译码(Transcoding)是将编码从一种格式转换到另一种格式的过程。
+
+小结：LINUX为我们提供了强大的编码转换工具,给我们带来了方便。
