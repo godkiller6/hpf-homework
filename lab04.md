@@ -1,0 +1,25 @@
+﻿我的第四次作业：
+
+一
+
+1）**ASCII** abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters.
+
+2）**Color** is the characteristic of human visual perception described through color categories, with names such as red, orange, yellow, green, blue, or purple. This perception of color derives from the stimulation of cone cells in the human eye by electromagnetic radiation in the visible spectrum. Color categories and physical specifications of color are associated with objects through the wavelength of the light that is reflected from them. This reflection is governed by the object's physical properties such as light absorption, emission spectra, etc.
+
+二
+
+1）
+
+|字符  |  ASCII 码|  Unicode 码| utf-8 编码 |
+|--|--|--|--|
+|A | （01000001）2 | 0041 | （65）10 |
+| 中 | （229）10 | U4e2d | &#x4E2D  |
+
+2）yellow（255，255，0）
+
+3）PNG   10%   50%    14%
+
+4）lossless
+
+
+
