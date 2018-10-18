@@ -6,7 +6,9 @@ title:
 # 我的博客标题 编码科普
 定义 
 编码是用预先规定的方法将文字、数字或其他对象编成数码，或将信息、数据转换成规定的电脉冲信号。编码是信息从一种形式或格式转换为另一种形式的过程。编码在电子计算机、电视、遥控和通讯等方面广泛使用。解码，是编码的逆过程。数字系统中常用的编码有两类，一类是二进制编码，另一类是十进制编码。 
-![](https://img-blog.csdn.net/20181013151013135?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMjY3Nzcz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+
+![](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=d69ac658972bd40756cadbaf1ae0f534/0d338744ebf81a4c8eb1b4b9d72a6059252da63b.jpg)
+
 
 分类 
 1. 汉字区。包括：
@@ -37,7 +39,7 @@ b. GB 13000.1 扩充非汉字区。即 GBK/5: A840-A9A0。BIG-5 非汉字符号�
 (3) A140-A7A0，码位 672 个。
 
 第(3)区尽管对用户开放，但限制使用，因为不排除未来在此区域增补新字符的可能性。 
-![](https://img-blog.csdn.net/20181013151036816?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMjY3Nzcz/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![]()
  
 种类 
 
