@@ -22,7 +22,7 @@
 
 二.游戏设计
 
-    设计图如下：
+设计图如下
 
 ![](https://img-blog.csdnimg.cn/20181107211142185.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMjY3Nzcz,size_16,color_FFFFFF,t_70)
 
@@ -34,4 +34,4 @@
 
 三.游戏成果展示
 
-![](https://img-blog.csdnimg.cn/20181107213208231.gif)
+![](https://img-blog.csdnimg.cn/20181107214631371.gif)
